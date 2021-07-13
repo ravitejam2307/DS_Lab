@@ -1,2 +1,2 @@
-# DS_Lab-cycle-1
+# DS_Lab_Programs
 Data Structures Using C 
